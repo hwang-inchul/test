@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/JP11416/android-libs-git/test-git/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/JP11416/android-libs-git/test-git/app/build/intermediates/pre-dexed/release/classes-5f5c13925e5a3d4be3463b6699b0c1a60e5dffad.jar" />
+    </item>
+    <item
+        jar="/Users/JP11416/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/JP11416/android-libs-git/test-git/app/build/intermediates/pre-dexed/release/support-annotations-22.2.0-55ffe31b7e5b28759cad361ded745a2e689f0a92.jar" />
+    </item>
+    <item
+        jar="/Users/JP11416/android-libs-git/test-git/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/JP11416/android-libs-git/test-git/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0-1a4a4f7aae1adb0ba7e99733d2d17e6dd6a3fd11.jar" />
+    </item>
+    <item
+        jar="/Users/JP11416/android-libs-git/test-git/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/JP11416/android-libs-git/test-git/app/build/intermediates/pre-dexed/release/classes-cff0a5af69e5b4729539f26dab46b53dab63c2dd.jar" />
+    </item>
+
+</items>
